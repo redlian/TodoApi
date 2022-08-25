@@ -1,6 +1,6 @@
 namespace TodoApi;
 
-public class Todo
+public class WeatherForecast
 {
   public DateTime Date { get; set; }
 
