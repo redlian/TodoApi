@@ -13,6 +13,9 @@
       "args": [],
       "cwd": "${workspaceFolder}",
       "stopAtEntry": false,
+      ////
+      //// Here 
+      //// when run app, will open new web.
       "serverReadyAction": {
         "action": "openExternally",
         "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
